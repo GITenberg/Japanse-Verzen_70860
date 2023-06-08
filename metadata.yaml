@@ -1,0 +1,33 @@
+_repo: Japanse-Verzen_70860
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rensburg, J. K. (Jacques Karel)
+    aliases:
+    - Rensburg, Jacques Karel
+    - Rensburg, Jacques K.
+    - Rensburg, J.K.
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '8769'
+    url: http://www.gutenberg.org/2009/agents/8769
+description: ''
+gutenberg_issued: '2023-05-25'
+identifiers:
+  gutenberg: '70860'
+language: nl
+pgterms:marc905: 20230311025255rensburg
+pgterms:marc906: '1903'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: '  $aNetherlands :$bJohan Pieterse, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch poetry'
+- !lcc 'PT'
+- GITenberg
+title: Japanse Verzen
+url: http://www.gutenberg.org/ebooks/70860
